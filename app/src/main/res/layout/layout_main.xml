@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#777777" >
+
+    <kimsunggil.customsnaphelper.CustomImageScrollView
+        android:id="@+id/customImageScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="horizontal" />
+
+</RelativeLayout>
